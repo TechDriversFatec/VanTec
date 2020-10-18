@@ -1,7 +1,7 @@
 ﻿# Bem vindo ao VanTec!
 
 Olá! Nós somos o grupo 4 - Vanzeiros do Vale e somos responsáveis pelo  desenvolvimento do app VanTec.
-A Vantec é uma ferramenta que tem o objetivo de facilitar a vida de motoristas e passageiros a gerenciar suas rotinas relacionadas ao transporte fretado, tanto no âmbito escolar, como no profissional.
+A Vantec é uma ferramenta que tem o objetivo de facilitar a vida de motoristas autônomos e passageiros fixos com rotas determinadas a gerenciar suas rotinas relacionadas ao transporte fretado, tanto no âmbito escolar, como no profissional.
 
 # O time
 
@@ -41,7 +41,9 @@ O aplicativo está sendo idealizado para motoristas de van sem muita familiarida
 - Git
 - Gitlab
 - FIGMA
-- Google Drive
+- App Inventor
+- Firebase DB
+- Tiny DB
 
 ## Entregas
 
@@ -54,13 +56,41 @@ O aplicativo está sendo idealizado para motoristas de van sem muita familiarida
 - Desenvolvimento do protótipo no aplicativo FIGMA.
 
 **Entrega 2**
-- Entrega do app realizando o cálculo da melhor rota;
-- Produzir a tela de "detalhes da viagem" do motorista.
+
+- Refinamento de telas no aplicativo FIGMA; 
+- Criação de telas no app inventor:
+	- Tela de home do passageiro;
+	- Tela de home do motorista;
+	- Tela de grupos;
+	- Tela de detalhes de grupo;
+	- Cadastro do motorista;
+	- Cadastro do passageiro.
+- Criação do banco de dados no TinyDB;
+- Início da integração do app inventor com o banco de dados.
+
+**Entrega 3**
+
+- Finalizar integração do app com o banco de dados
+- Iniciar a construção do algoritmo de cálculo da melhor rota de viagem para o motorista
+- Criação de telas no app inventor:
+	- Tela de detalhes de viagem
+
+**Entrega 4**
+- Criação de telas no app inventor:
+	- Tela de configurações de viagem (passageiro).
+- Aprimorar cálculo de melhor rota para o motorista;
+- Definição de método em que o motorista pode alterar a própria rota de viagem
 
 ## Nosso projeto até agora
+[Clicando aqui](https://youtu.be/H7Y1k5Pi1gE) pode-se acessar o vídeo de apresentação da segunda entrega do aplicativo VanTec (Entrega 2).
 
-[Clicando aqui](https://www.youtube.com/watch?v=VUH1oMZqjPI&feature=youtu.be&ab_channel=MAELZERA) pode-se acessar o vídeo de apresentação do primeiro protótipo do aplicativo VanTec.
+[Clicando aqui](https://drive.google.com/file/d/1nzBVnD213pMLrenv274LPBQwPO-CR5Kk/view?usp=sharing) Pode-se acessar o nosso app em desenvolvimento em .apk
 
-E [clicando aqui](https://www.figma.com/proto/z0x3JJRZZzfIK97mKbpoSF/VANTEC---OFICIAL-(USAR-ESSE)?node-id=95%3A8405&scaling=scale-down) pode-se acessar o protótipo do aplicativo VanTec, a equipe já idealizou o protótipo, o próximo objetivo é começar a desenvolver o aplicativo no app inventor.
+
+
+[Clicando aqui](https://www.youtube.com/watch?v=VUH1oMZqjPI&feature=youtu.be&ab_channel=MAELZERA) pode-se acessar o vídeo de apresentação do primeiro protótipo do aplicativo VanTec (Entrega 1).
+
+
+E [clicando aqui](https://www.figma.com/proto/z0x3JJRZZzfIK97mKbpoSF/VANTEC---OFICIAL-(USAR-ESSE)?node-id=95%3A8405&scaling=scale-down) pode-se acessar o protótipo do aplicativo VanTec.
 
 
