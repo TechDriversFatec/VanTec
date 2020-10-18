@@ -82,15 +82,22 @@ O aplicativo está sendo idealizado para motoristas de van sem muita familiarida
 - Definição de método em que o motorista pode alterar a própria rota de viagem
 
 ## Nosso projeto até agora
+
+### Entrega 1
+
+[Clicando aqui](https://www.youtube.com/watch?v=VUH1oMZqjPI&feature=youtu.be&ab_channel=MAELZERA) pode-se acessar o vídeo de apresentação do primeiro protótipo do aplicativo VanTec (Entrega 1).
+
+
+E [clicando aqui](https://www.figma.com/proto/z0x3JJRZZzfIK97mKbpoSF/VANTEC---OFICIAL-(USAR-ESSE)?node-id=95%3A8405&scaling=scale-down) pode-se acessar o protótipo do aplicativo VanTec.
+
+### Entrega 2
+
 [Clicando aqui](https://youtu.be/H7Y1k5Pi1gE) pode-se acessar o vídeo de apresentação da segunda entrega do aplicativo VanTec (Entrega 2).
 
 [Clicando aqui](https://drive.google.com/file/d/1nzBVnD213pMLrenv274LPBQwPO-CR5Kk/view?usp=sharing) Pode-se acessar o nosso app em desenvolvimento em .apk
 
 
 
-[Clicando aqui](https://www.youtube.com/watch?v=VUH1oMZqjPI&feature=youtu.be&ab_channel=MAELZERA) pode-se acessar o vídeo de apresentação do primeiro protótipo do aplicativo VanTec (Entrega 1).
 
-
-E [clicando aqui](https://www.figma.com/proto/z0x3JJRZZzfIK97mKbpoSF/VANTEC---OFICIAL-(USAR-ESSE)?node-id=95%3A8405&scaling=scale-down) pode-se acessar o protótipo do aplicativo VanTec.
 
 
