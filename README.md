@@ -94,7 +94,13 @@ E [clicando aqui](https://www.figma.com/proto/z0x3JJRZZzfIK97mKbpoSF/VANTEC---OF
 
 [Clicando aqui](https://youtu.be/H7Y1k5Pi1gE) pode-se acessar o vídeo de apresentação da segunda entrega do aplicativo VanTec (Entrega 2).
 
-[Clicando aqui](https://drive.google.com/file/d/1nzBVnD213pMLrenv274LPBQwPO-CR5Kk/view?usp=sharing) Pode-se acessar o nosso app em desenvolvimento em .apk
+
+### Entrega 3
+
+[Clicando aqui](https://www.youtube.com/watch?v=ZSG00gMPchg) pode-se acessar o vídeo de apresentação da terceira entrega do aplicativo VanTec (Entrega 3).
+
+[Clicando aqui](https://drive.google.com/file/d/1l4eW_3MVMtjBxQAigrF-izA269RPKTh0/view?usp=sharing) Pode-se acessar o nosso app em desenvolvimento em .apk
+
 
 
 
