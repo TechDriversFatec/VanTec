@@ -7,14 +7,14 @@ A Vantec é uma ferramenta que tem o objetivo de facilitar a vida de motoristas 
 
 A equipe Vanzeiros do Vale é composta pelos membros:
 
+- Danielly Garcia Jardim ***(Scrum Master)***
 - Fábio Romeiro ***(Scrum Master)***
 -  Gabriel Oliveira Sana *(Desenvolvedor)*
-- Henrique Steferson Silva de Oliveira *(Desenvolvedor)*
 -  Jefferson Tavares de Araújo *(Desenvolvedor)*
 -  Mateus Machado ***(Scrum Master)***
+- Nágella Chagas Nasser Barbosa *(Desenvolvedor)*
 -  Renata Garcia Nonato *(Desenvolvedor)*
 - Stefano Figueiredo Barbosa *(Desenvolvedor)*
-- Ticiane Maria Bonifacio *(Desenvolvedor)*
 
 ## Motivação
 
