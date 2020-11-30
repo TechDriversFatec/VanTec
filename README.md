@@ -79,7 +79,8 @@ O aplicativo está sendo idealizado para motoristas de van sem muita familiarida
 - Criação de telas no app inventor:
 	- Tela de configurações de viagem (passageiro).
 - Aprimorar cálculo de melhor rota para o motorista;
-- Definição de método em que o motorista pode alterar a própria rota de viagem
+- Aprimorar tela de grupos;
+- Envio de mensagem para o passageiro informando o horário em que a van irá passar para pegá-lo
 
 ## Nosso projeto até agora
 
@@ -101,6 +102,11 @@ E [clicando aqui](https://www.figma.com/proto/z0x3JJRZZzfIK97mKbpoSF/VANTEC---OF
 
 [Clicando aqui](https://drive.google.com/file/d/1l4eW_3MVMtjBxQAigrF-izA269RPKTh0/view?usp=sharing) Pode-se acessar o nosso app em desenvolvimento em .apk
 
+### Entrega 4
+
+[Clicando aqui](https://www.youtube.com/watch?v=AgJ1X9Yq5Bk) pode-se acessar o vídeo de apresentação da quarta entrega do aplicativo VanTec (Entrega 4).
+
+[Clicando aqui](https://drive.google.com/file/d/115gfOVAVq9gd7nhT4dMTEEgBeEs42S1x/view?usp=sharing) Pode-se acessar o nosso app em desenvolvimento em .apk
 
 
 
