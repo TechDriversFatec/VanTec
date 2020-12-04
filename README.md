@@ -109,6 +109,11 @@ E [clicando aqui](https://www.figma.com/proto/z0x3JJRZZzfIK97mKbpoSF/VANTEC---OF
 [Clicando aqui](https://drive.google.com/file/d/115gfOVAVq9gd7nhT4dMTEEgBeEs42S1x/view?usp=sharing) Pode-se acessar o nosso app em desenvolvimento em .apk
 
 
+### Apresentação final
+
+[Clicando aqui](https://www.youtube.com/watch?v=sD703ORRPtY) pode-se acessar o vídeo deaapresentação da apresentação final do aplicativo VanTec.
+
+[Clicando aqui](https://drive.google.com/file/d/1sQKyImyCG5KSU29AyOqas2aBLhJeCB3q/view?usp=sharing) Pode-se acessar o nosso app em .apk
 
 
 
